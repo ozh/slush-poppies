@@ -170,12 +170,12 @@ Installation:
         <LexerType name="php" desc="php" ext="">
             <WordsStyle name="QUESTION MARK" styleID="18" fgColor="000000" bgColor="F1F1F1" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="DEFAULT" styleID="118" fgColor="000000" bgColor="F1F1F1" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="STRING" styleID="119" fgColor="C03030" bgColor="F1F1F1" fontName="" fontStyle="0" fontSize="">the_ID the_post have_posts wp_link_pages the_content</WordsStyle>
-            <WordsStyle name="STRING VARIABLE" styleID="126" fgColor="C03030" bgColor="F1F1F1" fontName="" fontStyle="1" fontSize="" />
-            <WordsStyle name="SIMPLESTRING" styleID="120" fgColor="C03030" bgColor="F1F1F1" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="STRING" styleID="119" fgColor="800000" bgColor="F1F1F1" fontName="" fontStyle="0" fontSize="">the_ID the_post have_posts wp_link_pages the_content</WordsStyle>
+            <WordsStyle name="STRING VARIABLE" styleID="126" fgColor="800000" bgColor="F1F1F1" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="SIMPLESTRING" styleID="120" fgColor="800000" bgColor="F1F1F1" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="WORD" styleID="121" fgColor="2060A0" bgColor="F1F1F1" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
             <WordsStyle name="NUMBER" styleID="122" fgColor="0080A0" bgColor="F1F1F1" fontName="" fontStyle="0" fontSize="">$_POST $_GET $_SESSION</WordsStyle>
-            <WordsStyle name="VARIABLE" styleID="123" fgColor="400040" bgColor="F1F1F1" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="VARIABLE" styleID="123" fgColor="0000BB" bgColor="F1F1F1" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT" styleID="124" fgColor="808080" bgColor="F1F1F1" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENTLINE" styleID="125" fgColor="808080" bgColor="F1F1F1" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="OPERATOR" styleID="127" fgColor="2060A0" bgColor="F1F1F1" fontName="" fontStyle="0" fontSize="" />
@@ -707,7 +707,7 @@ Installation:
         <WidgetStyle name="Default Style" styleID="32" fgColor="000000" bgColor="F1F1F1" fontName="Source Code Pro" fontStyle="0" fontSize="9" />
         <WidgetStyle name="Indent guideline style" styleID="37" fgColor="888A85" bgColor="F1F1F1" fontName="" fontStyle="0" fontSize="" />
         <WidgetStyle name="Brace highlight style" styleID="34" fgColor="FF8000" bgColor="FFFF80" fontName="" fontStyle="1" fontSize="" />
-        <WidgetStyle name="Bad brace colour" styleID="35" fgColor="EF2929" bgColor="F1F1F1" fontName="" fontStyle="0" fontSize="" />
+        <WidgetStyle name="Bad brace colour" styleID="35" fgColor="EF2929" bgColor="F1F1F1" fontName="" fontStyle="2" fontSize="" />
         <WidgetStyle name="Current line background colour" styleID="0" bgColor="D6D6D6" fgColor="93A1A1" fontSize="" fontStyle="0" />
         <WidgetStyle name="Mark colour" styleID="0" fgColor="CC0000" bgColor="EDD400" fontStyle="0" />
         <WidgetStyle name="Selected text colour" styleID="0" bgColor="80FF00" fgColor="8000FF" fontStyle="0" />
@@ -715,7 +715,7 @@ Installation:
         <WidgetStyle name="Find Mark Style" styleID="31" fgColor="CC0000" bgColor="EDD400" fontName="" fontStyle="0" fontSize="" />
         <WidgetStyle name="Edge colour" styleID="0" fgColor="EEEEEC" bgColor="F3F3F3" fontSize="" fontStyle="0" />
         <WidgetStyle name="Line number margin" styleID="33" fgColor="EEEEEC" bgColor="2E3436" fontName="" fontStyle="0" fontSize="8" />
-        <WidgetStyle name="Fold" styleID="0" fgColor="2E3436" bgColor="EEEEEC" fontSize="" fontStyle="0" />
+        <WidgetStyle name="Fold" styleID="0" fgColor="C0C0C0" bgColor="004040" fontSize="" fontStyle="0" />
         <WidgetStyle name="Fold margin" styleID="0" fgColor="555753" bgColor="2E3436" fontStyle="0" />
         <WidgetStyle name="White space symbol" styleID="0" fgColor="FF8000" bgColor="00FF00" fontSize="" fontStyle="0" />
         <WidgetStyle name="Smart HighLighting" styleID="29" bgColor="888A85" fgColor="555753" fontSize="" fontStyle="0" />
