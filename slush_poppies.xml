@@ -322,10 +322,10 @@ Installation:
             <WordsStyle name="STRING" styleID="3" fgColor="C03030" bgColor="F1F1F1" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CHARACTER" styleID="4" fgColor="D94C4C" bgColor="F1F1F1" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="KEYWORDS" styleID="5" fgColor="2060A0" bgColor="F1F1F1" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
-            <WordsStyle name="TRIPLE" styleID="6" fgColor="000000" bgColor="F1F1F1" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="TRIPLEDOUBLE" styleID="7" fgColor="000000" bgColor="F1F1F1" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="TRIPLE" styleID="6" fgColor="808080" bgColor="F1F1F1" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="TRIPLEDOUBLE" styleID="7" fgColor="808080" bgColor="F1F1F1" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CLASSNAME" styleID="8" fgColor="000000" bgColor="F1F1F1" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="DEFNAME" styleID="9" fgColor="000000" bgColor="F1F1F1" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="DEFNAME" styleID="9" fgColor="0000A0" bgColor="F1F1F1" fontName="" fontStyle="1" fontSize="" />
             <WordsStyle name="OPERATOR" styleID="10" fgColor="2060A0" bgColor="F1F1F1" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="IDENTIFIER" styleID="11" fgColor="000000" bgColor="F1F1F1" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENTBLOCK" styleID="12" fgColor="808080" bgColor="F1F1F1" fontName="" fontStyle="0" fontSize="" />
